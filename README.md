@@ -23,7 +23,7 @@ In response to these events, we, the workers of Microsoft and GitHub, support th
 We encourage Microsoft and GitHub to keep the [996.ICU GitHub repository](https://github.com/996icu/996.ICU) **uncensored and available to everyone.** 
 
 
-我们鼓励微软，一个坚定地相信工作和生活平衡的公司，在任何情况下都要不要删改 996.ICU 的存储库，并保持其对所有人都可见。我们将尽我们最大努力继续支持996.ICU运动，并有效利用GitHub平台为中国科技工作者发声，传播他们的故事。
+我们鼓励微软，一个坚定地相信工作和生活平衡的公司，在任何情况下都不要删改 996.ICU 的存储库，并保持其对所有人都可见。我们将尽我们最大努力继续支持996.ICU运动，并有效利用GitHub平台为中国科技工作者发声，传播他们的故事。
 
 
 Signed,
@@ -116,7 +116,6 @@ Supported by / 支持者:
 * Liang Ding, Full-Time Open-Sourcerer, B3log 
 * Benson Laur, Software Engineer, Guangzhou Wangshi Software Technology Co. Ltd.
 * Nekocode(Fan Yueng), Software Engineer, Freelancer
-* Bu, Xiao-Yang (Shawn), Software Engineer, MicroFocus
 * Shuirong Lin, Front-end Developer, Freelancer, Student
 * JackEggie(Jack Tang), Software Engineer, Infor
 * ZiHang Gao, Software Engineer, IReader
@@ -141,4 +140,4 @@ Supported by / 支持者:
 * Aleksandra Culver, Senior Site Reliability Engineer, Google
 * Yan Cui, Solution Architect, Microsoft
 * Xiangyu (Shawn) Xiao, Tech Support Engineer, Microsoft
-* Noah Berman, Backend Engineer, WeTransfer
+
